@@ -1,3 +1,4 @@
 If Shell didn't sell shells by the seashore,
 What the heck is she doing?
 Well, learning GitHub, of course.
+This is pretty fun but hard.
